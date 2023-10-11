@@ -50,4 +50,4 @@ npm install react-leaflet
 npm install next-cloudinary
 npm install date-fns
 npm install react-date-range
-npm install -D @types/react-date-range
+npm install -D @types/react-date-range# HdbUncle
