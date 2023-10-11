@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+npm install react-icons zustand axios react-hook-form react-hot-toast
+npx prisma init
+npx prisma db push/pull npx prisma generate
+npm install next-auth @prisma/client @next-auth/prisma-adapter
+npm install bcrypt
+npm install -D @types/bcrypt
+npm install query-string //routes navigation
+npm install world-countries
+npm install react-select
+npm install leaflet
+npm install -D @types/leaflet
+npm install react-leaflet
+npm install next-cloudinary
+npm install date-fns
+npm install react-date-range
+npm install -D @types/react-date-range
